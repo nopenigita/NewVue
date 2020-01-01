@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3ff8081e-fd75-4d84-91e0-9ec7a6dd5fde" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/itcast-springboot/hello-vue/component1.html" afterPath="$PROJECT_DIR$/itcast-springboot/hello-vue/component1.html" />
     </list>
     <ignored path="$PROJECT_DIR$/itcast-springboot/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +21,8 @@
       <file leaf-file-name="component1.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/itcast-springboot/hello-vue/component1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+            <state relative-caret-position="364">
+              <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -125,11 +126,11 @@
         <option value="$PROJECT_DIR$/itcast-springboot/src/main/java/cn/itcast/springboot/controller/HelloController.java" />
         <option value="$PROJECT_DIR$/itcast-springboot/hello-vue/package.json" />
         <option value="$PROJECT_DIR$/itcast-springboot/hello-vue/hello.html" />
-        <option value="$PROJECT_DIR$/itcast-springboot/hello-vue/component1.html" />
         <option value="$PROJECT_DIR$/itcast-springboot/hello-vue/component.html" />
         <option value="$PROJECT_DIR$/itcast-springboot/hello-vue/src/js/login.js" />
         <option value="$PROJECT_DIR$/itcast-springboot/hello-vue/src/js/register.js" />
         <option value="$PROJECT_DIR$/itcast-springboot/hello-vue/src/index.html" />
+        <option value="$PROJECT_DIR$/itcast-springboot/hello-vue/component1.html" />
       </list>
     </option>
   </component>
@@ -470,12 +471,12 @@
       <workItem from="1576162287013" duration="659000" />
       <workItem from="1576936379400" duration="7438000" />
       <workItem from="1577364298399" duration="41000" />
-      <workItem from="1577496107478" duration="14059000" />
+      <workItem from="1577496107478" duration="14200000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35013000" />
+    <option name="totallyTimeSpent" value="35154000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="6" />
@@ -500,7 +501,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="MyBatis Sql Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23522316" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32448733" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24542125" sideWeight="0.4878788" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2832723" sideWeight="0.5121212" order="2" side_tool="true" content_ui="tabs" />
@@ -943,8 +944,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/itcast-springboot/hello-vue/component1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        <state relative-caret-position="364">
+          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
           <folding />
         </state>
       </provider>
